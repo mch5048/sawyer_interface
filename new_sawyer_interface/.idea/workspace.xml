@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/SawyerInteraction.py" line="2106" />
+    <bookmark url="file://$PROJECT_DIR$/src/revision_v1/SawyerInteraction.py" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b363e393-1e69-40d4-a0a3-6bd69b3e8815" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <splitter split-orientation="vertical" split-proportion="0.5">
+            <split-first>
+              <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+                <file leaf-file-name="integ_demo.py" pinned="false" current-in-tab="true">
+                  <entry file="file://$PROJECT_DIR$/src/integ_demo.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="-1011">
+                        <caret line="2584" column="35" selection-start-line="2584" selection-start-column="35" selection-end-line="2584" selection-end-column="35" />
+                        <folding>
+                          <element signature="e#249#280#0" expanded="true" />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+              </leaf>
+            </split-first>
+            <split-second>
+              <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+                <file leaf-file-name="integ_demo.py" pinned="false" current-in-tab="true">
+                  <entry file="file://$PROJECT_DIR$/src/integ_demo.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="279">
+                        <caret line="664" column="32" selection-start-line="664" selection-start-column="15" selection-end-line="664" selection-end-column="32" />
+                        <folding>
+                          <element signature="e#249#280#0" expanded="true" />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+              </leaf>
+            </split-second>
+          </splitter>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.80424887">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="integ_demo.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/integ_demo.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="166">
+                  <caret line="4156" column="18" lean-forward="true" selection-start-line="4156" selection-start-column="18" selection-end-line="4156" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#249#280#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="integ_demo.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/integ_demo.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="18080">
+                  <caret line="913" column="18" selection-start-line="913" selection-start-column="18" selection-end-line="913" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#249#280#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="tcpros_service.py" pinned="false" current-in-tab="true">
+            <entry file="file:///opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1">
+                  <caret line="542" column="51" selection-start-line="542" selection-start-column="51" selection-end-line="542" selection-end-column="51" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>viaPos2</find>
+      <find>penPose</find>
+      <find>pickPhone</find>
+      <find>pickPen</find>
+      <find>pickBottle</find>
+      <find>pick</find>
+      <find>'phone'</find>
+      <find>'piston_shaft'</find>
+      <find>pickGlue</find>
+      <find>read_status_from_Intera</find>
+      <find>disable_sasy</find>
+      <find>disable_say</find>
+      <find>Pose</find>
+      <find>range</find>
+      <find>th2</find>
+      <find>GotoBigframe</find>
+      <find>PutBigframe2Saywer</find>
+      <find>init_wpr</find>
+      <find>bin_homePose</find>
+      <find>ur_monitor</find>
+      <find>read_status_from_UR_monitor</find>
+      <find>monitor</find>
+      <find>detectobjects1</find>
+      <find>deg_ang</find>
+      <find>graspingPose</find>
+      <find>set_pose</find>
+      <find>roll</find>
+      <find>bin_bottom_margin</find>
+      <find>curDetectedAssemblePartsbyRCNN</find>
+      <find>pickbottle</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>coordTransform</replace>
+      <replace>self.lowerX</replace>
+      <replace>self.higherY</replace>
+      <replace>skunny</replace>
+      <replace>palletizingStartRobCoordA</replace>
+      <replace>palletizingStartRobCoordB</replace>
+      <replace>offsetXYZboxB</replace>
+      <replace>emptyforceValue</replace>
+      <replace>sendTrajectory()</replace>
+      <replace>sendTrajectory</replace>
+      <replace>trajectorySender().trajectory</replace>
+      <replace>trajectorySender().sendTrajectory</replace>
+      <replace>trajec</replace>
+      <replace>trajectorySender().clearTrajectory</replace>
+      <replace>trajectorySender().waypoint</replace>
+      <replace>endpoint_ft_dict</replace>
+      <replace>trajectorySender().waypoint_initial</replace>
+      <replace>motion</replace>
+      <replace>self.th.waypoint_count</replace>
+      <replace>self.th</replace>
+      <replace>self.waypoint_count</replace>
+      <replace>self.th.limb</replace>
+      <replace>'cellphone'</replace>
+      <replace>'pistonshaft'</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/RobotController.py" />
+        <option value="$PROJECT_DIR$/src/Forward_Kinematics.py" />
+        <option value="$PROJECT_DIR$/src/Joint_position_playback.py" />
+        <option value="$PROJECT_DIR$/src/Inverse_Kinematics.py" />
+        <option value="$PROJECT_DIR$/src/ReadCSV.py" />
+        <option value="$PROJECT_DIR$/src/PlayBack.py" />
+        <option value="$PROJECT_DIR$/src/Cuff.py" />
+        <option value="$PROJECT_DIR$/../visual_mpc/python_visual_mpc/visual_mpc_core/infrastructure/utility/parallel_data_collection.py" />
+        <option value="$USER_HOME$/Downloads/Cheolhui/DRL UI/DeepRL.py" />
+        <option value="$PROJECT_DIR$/src/f.py" />
+        <option value="$USER_HOME$/PycharmProjects/MinU/MinU.py" />
+        <option value="$PROJECT_DIR$/src/revision_v1/SawyerInteraction.py" />
+        <option value="$PROJECT_DIR$/src/coordTransfrom.py" />
+        <option value="$PROJECT_DIR$/include/sawyer.py" />
+        <option value="$PROJECT_DIR$/include/ur5.py" />
+        <option value="$PROJECT_DIR$/src/demo_ui.py" />
+        <option value="$PROJECT_DIR$/src/SawyerInteraction.py" />
+        <option value="$PROJECT_DIR$/src/integ_demo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="339" />
+    <option name="width" value="956" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="new_sawyer_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_sawyer_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_sawyer_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_sawyer_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_sawyer_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_sawyer_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/irobot/catkin_ws/src/new_sawyer_interface/src/SawyerInteraction.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/msg" />
+      <recent name="C:\Users\mch50\Desktop\2017 겨울방학" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b363e393-1e69-40d4-a0a3-6bd69b3e8815" name="Default" comment="" />
+      <created>1510993502702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510993502702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="339" width="956" height="1048" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10251046" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.20083682" side_tool="true" visible="true" weight="0.19002123" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.79916316" visible="true" weight="0.19002123" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4889488" weight="0.34387755" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2032967" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../visual_mpc/python_visual_mpc/visual_mpc_core/infrastructure/utility/parallel_data_collection.py</url>
+          <line>5</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inverse_Kinematics.py" />
+    <entry file="file://$PROJECT_DIR$/src/Joint_position_playback.py" />
+    <entry file="file://$PROJECT_DIR$/../visual_mpc/python_visual_mpc/visual_mpc_core/infrastructure/utility/parallel_data_collection.py" />
+    <entry file="file://$PROJECT_DIR$/src/SawyerInteraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20718">
+          <caret line="1151" column="70" selection-start-line="1151" selection-start-column="70" selection-end-line="1151" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo.py" />
+    <entry file="file://$PROJECT_DIR$/src/RobotController.py" />
+    <entry file="file://$USER_HOME$/Downloads/Cheolhui/DRL UI/DeepRL.py" />
+    <entry file="file://$PROJECT_DIR$/src/Forward_Kinematics.py" />
+    <entry file="file://$PROJECT_DIR$/src/ReadCSV.py" />
+    <entry file="file://$PROJECT_DIR$/src/Cuff.py" />
+    <entry file="file://$PROJECT_DIR$/src/PlayBack.py" />
+    <entry file="file://$PROJECT_DIR$/src/Inverse_Kinematics.py" />
+    <entry file="file://$PROJECT_DIR$/src/Joint_position_playback.py" />
+    <entry file="file://$PROJECT_DIR$/../visual_mpc/python_visual_mpc/visual_mpc_core/infrastructure/utility/parallel_data_collection.py" />
+    <entry file="file://$PROJECT_DIR$/src/SawyerInteraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20736">
+          <caret line="1152" column="25" selection-start-line="1152" selection-start-column="25" selection-end-line="1152" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo.py" />
+    <entry file="file://$PROJECT_DIR$/src/RobotController.py" />
+    <entry file="file://$PROJECT_DIR$/src/Forward_Kinematics.py" />
+    <entry file="file://$USER_HOME$/Downloads/Cheolhui/DRL UI/DeepRL.py" />
+    <entry file="file://$PROJECT_DIR$/src/ReadCSV.py" />
+    <entry file="file://$PROJECT_DIR$/src/Cuff.py" />
+    <entry file="file://$PROJECT_DIR$/src/PlayBack.py" />
+    <entry file="file://$PROJECT_DIR$/src/Inverse_Kinematics.py" />
+    <entry file="file://$PROJECT_DIR$/src/Joint_position_playback.py" />
+    <entry file="file://$PROJECT_DIR$/../visual_mpc/python_visual_mpc/visual_mpc_core/infrastructure/utility/parallel_data_collection.py" />
+    <entry file="file://$PROJECT_DIR$/src/RobotController.py" />
+    <entry file="file://$USER_HOME$/Downloads/Cheolhui/DRL UI/DeepRL.py" />
+    <entry file="file://$PROJECT_DIR$/src/Forward_Kinematics.py" />
+    <entry file="file://$PROJECT_DIR$/src/ReadCSV.py" />
+    <entry file="file://$PROJECT_DIR$/src/PlayBack.py" />
+    <entry file="file://$PROJECT_DIR$/src/Inverse_Kinematics.py" />
+    <entry file="file://$PROJECT_DIR$/src/Joint_position_playback.py" />
+    <entry file="file://$PROJECT_DIR$/../visual_mpc/python_visual_mpc/visual_mpc_core/infrastructure/utility/parallel_data_collection.py" />
+    <entry file="file://$PROJECT_DIR$/src/f.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/MinU/MinU.py" />
+    <entry file="file://$PROJECT_DIR$/../interface_for_Sawyer_control.py" />
+    <entry file="file://$PROJECT_DIR$/../Intel_Coach/coach-master/coach-master/exploration_policies/ou_process.py" />
+    <entry file="file://$PROJECT_DIR$/../피킹/3d_point_cloud_example/stream.py" />
+    <entry file="file://$PROJECT_DIR$/src/Cuff.py" />
+    <entry file="file://$PROJECT_DIR$/msg/Detection.msg" />
+    <entry file="file://$PROJECT_DIR$/src/revision_v1/SawyerInteraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="2043" column="48" selection-start-line="2043" selection-start-column="33" selection-end-line="2043" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo.py" />
+    <entry file="file://$PROJECT_DIR$/include/sawyer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ur5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/run_demo.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4675">
+          <caret line="275" selection-start-line="275" selection-end-line="275" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SawyerInteraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57358">
+          <caret line="3374" column="28" selection-start-line="3374" selection-start-column="28" selection-end-line="3374" selection-end-column="28" />
+          <folding>
+            <element signature="e#128#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="542" column="51" selection-start-line="542" selection-start-column="51" selection-end-line="542" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/integ_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="4156" column="18" lean-forward="true" selection-start-line="4156" selection-start-column="18" selection-end-line="4156" selection-end-column="18" />
+          <folding>
+            <element signature="e#249#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- Launch file that starts the testing nodes -->
+<launch>
+
+
+	<!-- Start the demo node -->
+	<node name="integ_demo" pkg="ros_faster_rcnn" type="simpleDetect.py" args="--cpu" output="screen"/>
+	<node unless="$(arg cpu_mode)" name="fasterRCNN1" pkg="ros_faster_rcnn" type="simpleDetect.py" output="screen"/>
+
+	<node if="$(arg cpu_mode)" name="fasterRCNN2" pkg="ros_faster_rcnn" type="simpleDetect2.py" args="--cpu" output="screen"/>
+	<node unless="$(arg cpu_mode)" name="fasterRCNN2" pkg="ros_faster_rcnn" type="simpleDetect2.py" output="screen"/>
+</launch>

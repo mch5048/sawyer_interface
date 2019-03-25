@@ -1,0 +1,3 @@
+        self.head_display = intera_interface.HeadDisplay()
+        head_image = cv2.imread(base_dir+"/KRRI.png", 0)
+        self.head_display.display_image(base_dir+"/KRRI.png")
